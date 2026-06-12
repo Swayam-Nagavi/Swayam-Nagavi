@@ -1,58 +1,119 @@
-# Hi, I'm Swayam Nagavi 👋
+<h1 align="center">Hi 👋, I'm Swayam Nagavi</h1>
+<h3 align="center">Software Developer | AI Enthusiast | Problem Solver</h3>
 
-🎓 Information Science Engineering Student (2023–2027)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Science+Engineer;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-💻 Aspiring Software Developer passionate about building real-world software solutions and exploring AI-driven systems.
+---
 
-## About Me
+## 🚀 About Me
 
-* 🔭 Currently working on AI-powered software projects
-* 🌱 Learning Full Stack Development, AI Applications, and System Design
-* 👨‍💻 Interested in Software Engineering, Artificial Intelligence, and Automation
-* 🚀 Always looking for opportunities to learn and build impactful solutions
+* 🎓 Information Science Engineering Student
+* 💻 Aspiring Software Developer
+* 🤖 Interested in AI, Automation & Full Stack Development
+* 🔭 Currently building Smart Reach
+* 🌱 Learning System Design & Advanced Web Development
+* ⚡ Love solving real-world problems through software
 
-## Skills
+---
 
-### Programming Languages
+## 🌐 Connect With Me
 
-Python • Java • C • JavaScript
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Databases
+<a href="mailto:swayamnagavi07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-MySQL • Firebase
+---
 
-### Libraries & Tools
+## 💻 Tech Stack
 
-NumPy • Pandas • Tkinter • Git • VS Code
+### Languages
 
-### Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
+</p>
 
-HTML • CSS
+### Web Development
 
-## Projects
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs"/>
+</p>
 
-### Smart Reach – Automated Recruiter Outreach System
+### Database
 
-Automated recruiter outreach platform with personalized email generation, resume attachment support, and bulk email delivery.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb"/>
+</p>
 
-### IoT-Based Soil Monitoring & AI-Driven Agriculture System
+### Tools
 
-Smart irrigation solution combining IoT sensors, weather data, and AI-based decision making.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
-### AI Assisted Evaluation System and Bias Reduction
+---
 
-AI-assisted grading system using OCR and NLP to evaluate handwritten answer sheets and improve grading fairness.
+## 🚀 Featured Projects
 
-## Achievements
+### 📧 Smart Reach
 
-🏆 Top 15 Team – AGRIVISION 2.0 National Level Hackathon (2026)
+Automated recruiter outreach platform with AI-generated personalized emails, resume attachment support, and bulk email delivery.
 
-🥈 1st Runner-Up – Kshetra Tantra Utsav Poster Presentation
+### 📝 AI Assisted Evaluation System
 
+OCR + NLP based answer sheet evaluation and bias reduction platform.
 
-## Connect With Me
+### 🌱 IoT Smart Irrigation System
 
-* LinkedIn: linkedin.com/in/swayam-n-94869129a
-* GitHub: github.com/Swayam-Nagavi
+AI-powered irrigation system using weather data and IoT sensors.
 
-⭐ I enjoy building software, solving problems, and learning new technologies.
+---
+
+## 🏆 Achievements
+
+* 🥇 Top 15 Team – AGRIVISION 2.0 National Hackathon
+* 🥈 1st Runner-Up – Poster Presentation
+* 📈 Top 5.7% in KCET
+* 📈 Top 20.7% in COMEDK
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Swayam-Nagavi&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam-Nagavi&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Nagavi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+* Full Stack Development
+* AI Applications
+* System Design
+* Data Structures & Algorithms
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Swayam-Nagavi\&color=blue)
+
+---
+
+### ⭐ Thanks for visiting my profile!
