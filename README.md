@@ -58,23 +58,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 📧 Smart Reach
-
-Automated recruiter outreach platform with AI-generated personalized emails, resume attachment support, and bulk email delivery.
-
-### 📝 AI Assisted Evaluation System
-
-OCR + NLP based answer sheet evaluation and bias reduction platform.
-
-### 🌱 IoT Smart Irrigation System
-
-AI-powered irrigation system using weather data and IoT sensors.
-
----
 
 ## 🏆 Achievements
 
