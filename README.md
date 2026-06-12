@@ -80,8 +80,6 @@ AI-powered irrigation system using weather data and IoT sensors.
 
 * 🥇 Top 15 Team – AGRIVISION 2.0 National Hackathon
 * 🥈 1st Runner-Up – Poster Presentation
-* 📈 Top 5.7% in KCET
-* 📈 Top 20.7% in COMEDK
 
 ---
 
