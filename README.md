@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Science+Engineer;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Science+Engineer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
@@ -16,9 +16,9 @@
 🧠 Interested in AI applications, Automation and Scalable Systems
 
 🌱 Currently learning
-* • System Design
-* • Data Structures & Algorithms
-* • Advanced Backend Development
+*  System Design
+*  Data Structures & Algorithms
+*  Advanced Backend Development
 
 🎯 Goal:
 Become an AI Engineer / Software Engineer building products used by millions.
@@ -69,6 +69,3 @@ Become an AI Engineer / Software Engineer building products used by millions.
 
 * 🥇 Top 15 Team – AGRIVISION 2.0 National Hackathon
 * 🥈 1st Runner-Up – Poster Presentation
-
----
-### ⭐ Thanks for visiting my profile!
