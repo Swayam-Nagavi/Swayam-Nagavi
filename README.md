@@ -16,9 +16,9 @@
 🧠 Interested in AI applications, Automation and Scalable Systems
 
 🌱 Currently learning
-• System Design
-• Data Structures & Algorithms
-• Advanced Backend Development
+* • System Design
+* • Data Structures & Algorithms
+* • Advanced Backend Development
 
 🎯 Goal:
 Become an AI Engineer / Software Engineer building products used by millions.
@@ -65,42 +65,10 @@ Become an AI Engineer / Software Engineer building products used by millions.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-
 ## 🏆 Achievements
 
 * 🥇 Top 15 Team – AGRIVISION 2.0 National Hackathon
 * 🥈 1st Runner-Up – Poster Presentation
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Swayam-Nagavi&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam-Nagavi&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Nagavi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Currently Learning
-
-🤖 AI Applications
-🏗️ System Design
-📚 Data Structures & Algorithms
-☁️ Cloud Computing
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Swayam-Nagavi\&color=blue)
-
----
-
 ### ⭐ Thanks for visiting my profile!
