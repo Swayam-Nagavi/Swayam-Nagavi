@@ -9,24 +9,31 @@
 
 ## 🚀 About Me
 
-* 🎓 Information Science Engineering Student
-* 💻 Aspiring Software Developer
-* 🤖 Interested in AI, Automation & Full Stack Development
-* 🔭 Currently building Smart Reach
-* 🌱 Learning System Design & Advanced Web Development
-* ⚡ Love solving real-world problems through software
+🎓 Information Science Engineering student at KLS Gogte Institute of Technology
+
+💻 Passionate about Software Development, Artificial Intelligence and Backend Engineering
+
+🧠 Interested in AI applications, Automation and Scalable Systems
+
+🌱 Currently learning
+• System Design
+• Data Structures & Algorithms
+• Advanced Backend Development
+
+🎯 Goal:
+Become an AI Engineer / Software Engineer building products used by millions.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/swayam-n-94869129a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:swayamnagavi07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=swayamnagavi07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -84,11 +91,10 @@
 
 ## 🎯 Currently Learning
 
-* Full Stack Development
-* AI Applications
-* System Design
-* Data Structures & Algorithms
-
+🤖 AI Applications
+🏗️ System Design
+📚 Data Structures & Algorithms
+☁️ Cloud Computing
 ---
 
 ## 👀 Profile Views
